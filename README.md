@@ -45,7 +45,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Erbar&label=Profile%20Views&color=0&icon=0" />
-</p>
 
