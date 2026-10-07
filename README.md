@@ -1,23 +1,32 @@
-<h1 align="center">Hi, I'm Erbar </h1>
+<h1 align="center">Hi, I'm Erbar 👋</h1>
 
 <p align="center">
-  A Front-End Developer in training passionate about building modern, responsive and interactive web experiences.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=650&height=60&lines=Front-End+Developer+in+training;Building+modern+%26+responsive+websites;Growing+toward+Full-Stack" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 While focusing on Front-End development, I'm now beginning to explore Back-End concepts to grow toward a Full-Stack path.
-- 💻 Building my **personal portfolio website**
-- 📘 Love solving **math problems** and continuously improving my problem-solving skills  
-- 🎯 Goal: Become a skilled **Front-End / Full-Stack Developer**
+```bash
+erbar@portfolio:~$ about
 
-📩 **Email:** erbari125@gmail.com
+  Name     : Erbar
+  Role     : Front-End Developer (in training)
+  Learning : Back-End basics → Full-Stack path
+  Project  : Building my personal portfolio website
+  Hobby    : Solving math problems
+  Goal     : Become a skilled Front-End / Full-Stack Developer
+  Email    : erbari125@gmail.com
+```
 
 ---
 
 ## 💻 Tech Stack
+
+```bash
+erbar@portfolio:~$ show skills
+```
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -32,20 +41,13 @@
 
 ---
 
-## ✨ Random Developer Quote
+## 📩 Contact
+
+```bash
+erbar@:~$ contact --email
+erbari125@gmail.com
+```
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=400&height=30&lines=Thanks+for+visiting!+%F0%9F%91%8B" alt="Footer typing" />
 </p>
-
----
-
-## 🐍 GitHub Contribution Snake 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
----
-
-
