@@ -6,48 +6,82 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```bash
-erbar@portfolio:~$ about
+erbar@portfolio:~$ whoami
+erbar-tahiri
 
-  Name     : Erbar
-  Role     : Front-End Developer (in training)
-  Learning : Back-End basics → Full-Stack path
-  Project  : Building my personal portfolio website
-  Hobby    : Solving math problems
-  Goal     : Become a skilled Front-End / Full-Stack Developer
-  Email    : erbari125@gmail.com
+erbar@portfolio:~$ cat profile.json
+{
+  "name": "Erbar Tahiri",
+  "role": "Front-End Developer (in training)",
+  "focus": ["responsive design", "interactive UI", "clean code"],
+  "learning": ["back-end basics", "APIs", "databases"],
+  "interests": ["problem solving", "math"],
+  "status": "building portfolio website",
+  "goal": "Front-End -> Full-Stack Developer",
+  "open_to": ["learning", "collaboration", "junior opportunities"]
+}
+
+erbar@portfolio:~$ uptime
+ learning since day 1, still compiling...
 ```
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ```bash
-erbar@portfolio:~$ show skills
-```
+erbar@portfolio:~$ ls -l ~/skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-8210F5?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-</p>
+drwxr-xr-x  front-end/
+-rw-r--r--    html5        [stable]
+-rw-r--r--    css3         [stable]
+-rw-r--r--    javascript   [improving]
+-rw-r--r--    bootstrap    [stable]
+-rw-r--r--    tailwindcss  [improving]
+-rw-r--r--    react        [learning]
+-rw-r--r--    jquery       [comfortable]
+
+drwxr-xr-x  data/
+-rw-r--r--    json         [comfortable]
+
+drwxr-xr-x  back-end/      [exploring]
+```
 
 ---
 
-## 📩 Contact
+## Currently Working On
 
 ```bash
-erbar@:~$ contact --email
+erbar@portfolio:~$ git log --oneline -n 4
+
+a1f3c92 (HEAD -> main) build personal portfolio website
+7be04d1 practice React components and state
+4c9e8a7 explore back-end concepts
+19d2f60 solve daily math & logic problems
+```
+
+```bash
+erbar@portfolio:~$ cat roadmap.txt
+
+[x] HTML, CSS & responsive layouts
+[x] JavaScript fundamentals
+[ ] React projects
+[ ] Back-end (Node.js, APIs, databases)
+[ ] Launch portfolio website
+[ ] Full-Stack projects
+```
+
+---
+
+## Contact
+
+```bash
+erbar@portfolio:~$ contact --email
 erbari125@gmail.com
-```
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=400&height=30&lines=Thanks+for+visiting!+%F0%9F%91%8B" alt="Footer typing" />
-</p>
+erbar@portfolio:~$ exit
+Thanks for visiting. Session closed.
+```
