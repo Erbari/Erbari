@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Erbar Tahiri</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=650&height=60&lines=Front-End+Developer+in+training;Building+modern+%26+responsive+websites;Growing+toward+Full-Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=650&height=60&lines=Front-End+Developer;Building+modern+%26+responsive+websites;Growing+toward+Full-Stack" alt="Typing SVG" />
 </p>
 
 ---
