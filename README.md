@@ -38,10 +38,10 @@ erbar@portfolio:~$ ls -l ~/skills
 drwxr-xr-x  front-end/
 -rw-r--r--    html5        [stable]
 -rw-r--r--    css3         [stable]
--rw-r--r--    javascript   [improving]
+-rw-r--r--    javascript   [stable]
 -rw-r--r--    bootstrap    [stable]
--rw-r--r--    tailwindcss  [improving]
--rw-r--r--    react        [learning]
+-rw-r--r--    tailwindcss  [stable]
+-rw-r--r--    react        [stable]
 -rw-r--r--    jquery       [comfortable]
 
 drwxr-xr-x  data/
