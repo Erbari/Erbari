@@ -56,7 +56,7 @@ I enjoy solving complex problems, exploring mathematical ideas, and understandin
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=58A6FF" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Erbari&style=flat&color=58A6FF" alt="Profile views" />
 </p>
 
 <p align="center">
